@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+      <siteMapNode url="#" title="Home"  description="Home">
+      <siteMapNode url="" title="Software" description="Software">
+        <siteMapNode url="" title="Accounting application" description="Software"/>
+        <siteMapNode url="" title="POS application" description="Software"/>
+        <siteMapNode url="" title="Hospital application" description="Software"/>
+      </siteMapNode>
+      <siteMapNode url="" title="Hardware" description="Hardware">
+          <siteMapNode url="" title="Servers" description="Hardware"/>
+          <siteMapNode url="" title="Client PC" description="Hardware"/>
+          <siteMapNode url="" title="Mobile equipment" description="Hardware"/>
+          <siteMapNode url="" title="POS equipment" description="Hardware"/>
+      </siteMapNode>
+      <siteMapNode url="" title="AboutUs" description="Aboutus"/>
+      <siteMapNode url="" title="Clinets" description="Clients"/>
+      <siteMapNode url="" title="ContactUs" description="ContactUs"/>        
+    </siteMapNode>
+</siteMap>

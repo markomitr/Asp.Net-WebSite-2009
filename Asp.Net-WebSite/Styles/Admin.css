@@ -1,0 +1,50 @@
+﻿#Celo
+{
+	margin:10px auto;
+	width:1024px;
+	background-color:#e2e0e0;
+}
+
+
+/* Header */
+#Header
+{
+	min-height:200px;
+}
+
+/* AdminMeni */
+
+.AdminMeni 
+{
+	display:block;
+	float:right;
+	list-style-type:none;
+	margin-right:20px;
+}
+.AdminMeni li
+{
+	display:inline-block;
+	float:left;
+	margin-left:10px;
+	background-color:#8b8787;
+}
+.AdminMeni a
+{
+	display:block;
+	padding:5px;
+	text-decoration:none;
+	font-size:14px;
+	font-family:Verdana;
+	color:White;
+	letter-spacing: 1px;
+}
+.AdminMeni a:hover
+{
+	background-color:Red;
+}
+/*  Content */
+#LoginDiv table
+{
+	margin:0 auto;
+	border:1px solid #222222;
+}

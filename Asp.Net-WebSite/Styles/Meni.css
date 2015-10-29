@@ -1,0 +1,225 @@
+﻿
+#meni
+{
+	border-top:solid 11px #de2221;
+	padding-top:1px;
+	width:100%;
+	display:block;
+	clear:both;
+}
+#meni ul
+{
+	font-family:Verdana;
+	font-size:0.8em;
+	font-weight:bold;
+	color:White;
+	text-align:center;
+	margin:0px;
+	padding-left:5px;
+	height:33px;
+	background-image:url('../images/pozadinaMeni.gif');
+}
+#meni ul li
+{
+	width:110px;
+	height:25px;
+	padding-top:8px;
+	display:inline-block;
+	float:left;
+}
+#meni ul li:hover
+{
+	background-image:url('../images/pozadinaMeni1.gif');
+	padding-top:5px;
+	height:28px;
+}
+#meni li a
+{
+	height:20px;
+	display:block;
+	border-right:solid 1px #de2221;
+	color:White;
+	text-decoration:none;
+}
+.en
+{
+	background:url('../Images/flagEn.gif');
+	background-position:center;
+	width:15px;
+	background-repeat:no-repeat;
+	display:inline-block;
+}
+.mk
+{
+	width:15px;
+	display:inline-block;
+	background:url('../Images/flagMk.gif');
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#footermeni
+{
+	padding-top:1px;
+	width:100%;
+}
+#footermeni ul
+{
+	font-family:Verdana;
+	font-size:0.8em;
+	font-weight:bold;
+	text-align:center;
+	margin:0px;
+	padding-left:5px;
+	height:30px;
+	background-color:#c8c9cb;
+}
+#footermeni ul li
+{
+	width:110px;
+	height:22px;
+	display:inline-block;
+	float:left;
+	padding-top:8px;
+	
+}
+#footermeni ul li:hover
+{
+	background-color:#9a9b9c;
+}
+#footermeni li a
+{
+	height:18px;
+	display:block;
+	color:White;
+	text-decoration:none;
+	border-right:solid 1px #FFFFFF;
+}
+#novosti 
+{
+	overflow:hidden;	
+	display:block;
+}
+#novosti a
+{
+	color:#788188;
+}
+#novosti img
+{
+	margin:0px 5px 0px 0px;
+}
+#novosti ul
+{
+	font-family:Verdana;
+	font-size:0.8em;
+	color:#788188;
+	margin:0px 0px 0px 1px;
+	padding:10px 2px 0px 0px;
+	display:block;
+	overflow:hidden;
+	float:left;
+	clear:right;
+	width:23%;
+	min-height:250px;
+	border:solid 1px #939aa0;
+	text-align:center;
+	background-image:url('../Images/grayLinija1.gif');
+	background-repeat:repeat-x;
+	
+}
+#novosti ul li
+{
+	text-align:justify;
+	padding-left:15px;
+	display:block;
+	margin-top:10px;
+}
+#home ul
+{
+	width:257px;
+}
+.VMeniFull
+{
+	font-family:Verdana;
+	font-size:0.8em;
+	color:#777777;
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+	width:100%;
+}
+.VMeniFull li
+{
+	padding:5px 0px;
+	display:block;
+	width:100%;
+	background-color:#c8c9cb;
+	text-align:center;
+	border-bottom:solid 1px #9e9e9e;
+}
+.VMeniFull a
+{
+	text-decoration:none;
+	padding:0px 1px;
+	color:#777777;
+}
+.VMeniFull a:hover
+{
+	color:White;
+}
+.tekst 
+{
+	display:none;
+}
+/*Menija za Hardware i Software*/
+#SoftHardmeniH 
+{
+	width:800px;
+	margin:auto;
+	padding:0px;
+	margin-left:15px;
+}
+#SoftHardmeniH ul
+{
+	display:inline-block;
+	padding:0px;
+	clear:right;
+	
+}
+#SoftHardmeniH ul li
+{
+	display:inline-block;
+	background:transparent url(../Images/meniLinija.gif) repeat-x scroll center center;
+	float:left;
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bolder;
+	text-align:center;
+	padding: 5px 1px 5px 1px;
+}
+#SoftHardmeniH ul a:hover
+{
+	color:Maroon;
+}
+.SoftmeniHul
+{
+	margin:auto;
+}
+.HardmeniHul
+{
+	margin:auto;
+	margin-left:90px;
+}
+.SoftmeniHli
+{
+	width:250px;
+	border:1px solid #c8c9cb;
+	margin-left:0px;
+}
+.HardmeniHli
+{
+	width:150px;
+	background:transparent url(../Images/meniLinija.gif) repeat-x scroll center center;
+	border:1px solid #c8c9cb;
+	margin-left:0px;
+}
+/*Kraj Hardware i Software Meni*/

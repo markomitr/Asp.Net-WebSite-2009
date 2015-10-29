@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="#" title="Дома"  description="Home">
+    <siteMapNode url="" title="Софтвер" description="Software">
+      <siteMapNode url="" title="Сметковоствени апликации" description="Software"/>
+      <siteMapNode url="" title="ПОС апликации" description="Software"/>
+      <siteMapNode url="" title="Болнички и Амбулантни апликации" description="Software"/>
+    </siteMapNode>
+     <siteMapNode url="" title="Хардвер" description="Hardware">
+       <siteMapNode url="" title="Сервери" description="Hardware"/>
+       <siteMapNode url="" title="Станици" description="Hardware"/>
+       <siteMapNode url="" title="Мобилни уреди" description="Hardware"/>
+       <siteMapNode url="" title="ПОС опрема" description="Hardware"/>
+      </siteMapNode>
+    <siteMapNode url="" title="За Нас" description="Aboutus"/>
+    <siteMapNode url="" title="Клиенти" description="Clients"/>
+    <siteMapNode url="" title="Контакт" description="ContactUs"/>
+  </siteMapNode>
+</siteMap>

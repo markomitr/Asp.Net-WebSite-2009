@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutUsAplikativen" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp  Нашиот технички тим е добро упатен во повекето од сегашните големи бизнис апликации и ги имаат при рака сите средства потребни за да ги добиете резултатите што ви требаат. Нашите аналитичари имаат широка основа на искуство кое доаѓа од работењето со апликациите кои се водечки во денешните бизниси.</value>
+  </data>
+  <data name="AboutUsAplikativenNaslov" xml:space="preserve">
+    <value>Поддршка на апликативниот софтвер</value>
+  </data>
+  <data name="AboutUsBrendovi" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp Нашата команија е во тренд со светските брендови. Секогаш ви ги  нудиме најдобрите решенија дирекно од најдобрите компании.</value>
+  </data>
+  <data name="AboutUsBrendoviNaslov" xml:space="preserve">
+    <value>Светските брендови</value>
+  </data>
+  <data name="AboutUsObuka" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp По инсталацијата на апликативниот софтвер и компјутерска опрема  ИНФО Биро обезбедува сеопфатна обука така да клиентот ќе може да ја стекне потребната вештина за работење. Ние одиме и чекор понатаму од другите - со обуката на нашите клиенти ние сме во ситуација да обезбедиме подобра услуга, а со тоа и нашите клиенти се чувствуваат посигурно и покомфорно.</value>
+  </data>
+  <data name="AboutUsObukaNaslov" xml:space="preserve">
+    <value>Обука</value>
+  </data>
+  <data name="AboutUsSymbol" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp &lt;b&gt;ИНФО Биро&lt;/b&gt; е главен дистибутер на производите од &lt;b&gt;Symbol&lt;/b&gt;  за Република Македонија.Присутен на пазарот со баркод-скенери,мобилни уреди и инфо дисплеии.</value>
+  </data>
+  <data name="AboutUsSymbolNaslov" xml:space="preserve">
+    <value>Symbol-Motorola</value>
+  </data>
+  <data name="AboutUsTehnicka" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp Гарантираме за производите кои ќе ги набавите кај нас а воедно ќе ја имате нашата поддршка во Вашиот стремеж за интегрирање во новите технологии. Нашиот тим знае како да Ви ги пренесе потребните информации и знаење</value>
+  </data>
+  <data name="AboutUsTehnickaNaslov" xml:space="preserve">
+    <value>Техничка поддршка</value>
+  </data>
+  <data name="AboutUsTim" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp Нашиот технички тим обезбедува поддршка почнувајќи од проценка на потребите преку дизајнирање и инсталација на Вашиот компјутерски систем, до секојдневно  сервисирање и советување. Ние ќе се грижиме за техничките детали така да Вие можете да работите без проблеми на постојан и сигурен компјутерски систем.</value>
+  </data>
+  <data name="AboutUsTimNaslov" xml:space="preserve">
+    <value>Технички тим</value>
+  </data>
+  <data name="AboutUsVoved" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp &lt;b&gt;ИНФО Биро&lt;/b&gt; е независна компанија која се занимава со изработка
+            на апликативен софтвер и продажба на компјутерска опрема со седиште во Охрид, Република
+            Македонија.
+            &lt;p&gt;
+                &lt;b&gt;Нашата цел е решенијата да ги прилагодиме кон специфичните потреби на нашите клиенти.&lt;/b&gt;&lt;/p&gt;
+            &amp;nbsp&amp;nbsp&amp;nbsp Нашиот тим е специјализиран за поставување и инсталација на апликативен
+            софтвер и комјутерска опрема во мрежно опкружување. Развиваме ефективни решенија
+            во следните области: Интернет/Интранет решенија, изработка на апликативен софтвер,
+            користење на бази на податоци, продажба на компјутерска опрема. Без разлика дали
+            Ви е потребен интегриран мрежен систем, комpјутерска опрема и галантерија или пак
+            Ви е потребан надградба на постоечкио систем, &lt;b&gt;ИНФО Биро&lt;/b&gt; е вистинскиот избор
+            за Вашите потреби.</value>
+  </data>
+  <data name="contactTextTel" xml:space="preserve">
+    <value>&lt;img src="Images/ContactUs.jpg" /&gt;
+&lt;ul&gt;ИНФО-Биро - Охрид
+&lt;li&gt;ул:Ванчо Николески бр.3&lt;/li&gt;
+&lt;li&gt;Охрид,Македонија&lt;/li&gt;
+&lt;li&gt;тел/фах:+389 46 262139, +389 46 262885&lt;/li&gt;
+&lt;li&gt;е-пошта:&lt;a href="mailto:info@infobiro.com.mk"&gt;info@infobiro.com.mk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;ИНФО-Биро - Скопје
+&lt;li&gt;ул:Мит.Теодосије Гологанов 28&lt;/li&gt;
+&lt;li&gt;Скопје,Македонија&lt;/li&gt;
+&lt;li&gt;тел/фах:+389 2 298484, +389 2 298483&lt;/li&gt;
+&lt;li&gt;е-пошта:&lt;a href="mailto:infosk@infobiro.com.mk"&gt;infosk@infobiro.com.mk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</value>
+  </data>
+  <data name="NaslovnaVoved" xml:space="preserve">
+    <value>&lt;div class="naslovAboutClients Naslovna"&gt;
+        Добредојдовте на нашот веб - Инфо Биро
+    &lt;/div&gt;
+    &lt;div class="tekstAboutUs"&gt;
+        &lt;b style="color: Maroon;"&gt;ИНФО-БИРО&lt;/b&gt; е фирма во приватна сопственост формирана
+        во Ноември 1991.Основни дејности на претпријатието:
+        &lt;ul&gt;
+            &lt;li&gt;Дизајнирање и изработка на деловен апликативен софтвер&lt;/li&gt;
+            &lt;li&gt;Дизајн на бази на податоци&lt;/li&gt;
+            &lt;li&gt;Инсталирање и одржување компјутерски мрежи&lt;/li&gt;
+            &lt;li&gt;Продажба на стандардна и специјализирана компјутерска опрема&lt;/li&gt;
+            &lt;li&gt;Продажба на потрошни материјали&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="newsPageText" xml:space="preserve">
+    <value>&lt;div class="naslovAboutClients Naslovna"&gt;
+  Taggy-Лабели за цени
+&lt;/div&gt;
+    &lt;div class="tekstAboutUs"&gt;
+ Taggy - е иновативен радио систем кој се користи за да се ажурираат цените на производите и информациите за нив во реално време, со кои се подобрува работата и се намалува времето потрошено за промена на цените мануално.
+ &lt;/div&gt;
+ &lt;div id="novostiStrana"&gt;
+ &lt;div class="naslovAboutClients Naslovna"&gt;
+  Taggy-Употреба
+&lt;/div&gt;
+ &lt;ul&gt;Taggy - можат да се користат во:
+&lt;li&gt;Супермаркети&lt;/li&gt;
+&lt;li&gt;Парфимерии&lt;/li&gt;
+&lt;li&gt;Оптики&lt;/li&gt;
+&lt;li&gt;Продавници за накит&lt;/li&gt;
+&lt;li&gt;Проданвици за обувки&lt;/li&gt;
+&lt;li&gt;Продавница за облека&lt;/li&gt;
+&lt;li&gt;Продавници за овошја и зеленчук&lt;/li&gt;
+&lt;li&gt;Продавници за телефонска опрема&lt;/li&gt;
+&lt;li&gt;Продавници за електронска опрема&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;a rel="shadowbox[Prezent];options={counterType:'skip',continuous:true}" href="Images/MarketTaggy.jpg"&gt; &lt;img src="Images/MarketTaggy.jpg" /&gt;&lt;/a&gt;
+ &lt;/div&gt;</value>
+  </data>
+  <data name="SoftwareVoved" xml:space="preserve">
+    <value>&amp;nbsp&amp;nbsp&amp;nbsp Програмските пакети овозможуваат формирање на целосно интегриран
+            информационен систем.Со избирање на програмски пакет од горното мени ги даваме основните
+            можности на стандардните деловни програми.&amp;nbsp&amp;nbsp&amp;nbsp
+            &lt;br /&gt;
+            Со оглед на тоа што секоја поголема фирма има свои специфики, истите ќе бидат детално
+            снимени и ќе бидат договорени соодветни решенија.
+            &lt;br /&gt;
+            Организацијата на нашата фирма се карактеризира со спремност за промена - кон подобро.Секој
+            од вработените ги вложува своето знаење и способности дасе изнајдат подобри решенија
+            секој ден. ги имаат при рака сите средства потребни за да ги добиете резултатите
+            што ви требаат. Нашите аналитичари имаат широка основа на искуство кое доаѓа од
+            работењето со апликациите кои се водечки во денешните бизниси.</value>
+  </data>
+  <data name="textClients" xml:space="preserve">
+    <value>&lt;div class="naslovAboutClients"&gt;
+Референтна Листа
+&lt;/div&gt;
+&lt;img src="Images/Klienti.jpg" /&gt;
+&lt;div  class="ReferentnaListaText"&gt;&lt;img src="Images/SlikaClients.jpg" /&gt;
+&lt;h1&gt;Ние имаме претпоставен - клиентот&lt;/h1&gt;
+Сите ние сме определени за личен и професинален успен на нашиот клиент.
+Тој има право право на добра, брза и квалитетна услуга од наша страна.
+Можеме да бидеме успешни само ако успееме да дадеме значаен долгорочен придонес.
+Нашиот сопствен успех зависи од тоа!
+&lt;/div&gt;</value>
+  </data>
+</root>

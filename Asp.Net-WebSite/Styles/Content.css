@@ -1,0 +1,405 @@
+﻿* h1
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+.kopceMailForma
+{
+ background-color:White;
+ color:Maroon;
+}
+.kopceMailForma:hover
+{
+	cursor:pointer;
+}
+
+a
+{
+	text-decoration:none;
+	color:Black;
+}
+body 
+{
+	margin-left :auto;
+	margin-right :auto;
+	width:800px;
+	padding:3px;
+}
+img
+{
+	border:0px;
+	margin:0px;
+	padding:0px;
+}
+#header 
+{
+	width:100%;	
+	height:105px;
+	background-image:url('../images/IblogoUC.gif');
+	background-repeat:no-repeat;
+	position:relative;
+}
+#loginHeader 
+{
+	position: relative;
+	margin-top:35px;
+	float:right;
+}
+#loginHeader ul
+{
+	margin:0px;
+	float:right;
+}
+#loginHeader ul li
+{
+	display:inline-block;
+	float:left;
+	margin-right:10px;
+}
+#loginHeader a
+{
+	text-decoration:none;
+}
+#loginHeader img
+{
+	margin-right:2px;
+}
+#content 
+{
+	position:relative;
+}
+#slikaHome 
+{
+	margin:3px 0 3px 0;
+	text-align:center;
+	max-height:200px;
+	display:block;
+}
+#ReklamaNaslovna
+{
+	background-repeat:no-repeat;
+	clear:left;
+	height:50px;
+	width:795px;
+}
+#leftContent
+{
+	float:left;
+	width:130px;
+	/*border:solid 1px #9e9e9e;
+	border-right:0px; */
+	min-height:400px;
+	padding:2px;
+	
+}
+#centerContent
+{
+	float:left;
+	width:95%;
+	/*border:solid 1px #9e9e9e;*/
+	min-height:200px;
+	padding:2px;
+	text-align:center;
+	padding:3px 0px 3px 0px;
+}
+#logoCenterContent
+{
+	margin-top:20px;
+}
+#textCenterContent
+{
+	width:100%;
+	/*margin-top:10px;*/
+	padding:5px 5px 5px 20px;
+	text-align:left;
+}
+#footer
+{
+	position:relative;
+	margin-top:1px;
+	width:100%;
+	height:38px;
+	text-align:center;
+	clear:both;
+}
+.copyright
+{
+	font-family:Arial Black;
+	color:Red;
+	font-size:2em;
+}
+.sodrzina
+{
+	display:block;
+	margin-left:30px;
+	font-size:0.9em;
+	color:#aeb3b8;
+}
+.naslov
+{
+	color:#788188;	
+}.naslovProdukt
+{
+	color:#234132;
+	font-size:18px;
+	margin:3px 0px 3px 5px;
+	display:block;
+}
+/*Css za Clients strana */
+.naslovAboutClients
+{
+  border-bottom: 1px #c8c9cb;
+  border-bottom-style: double;
+  font-family:Verdana;
+  font-size:15px;
+  color: #778087;
+  margin-bottom:5px;
+}
+.ReferentnaListaText
+{
+  font-family:Verdana;
+  font-size:12px;
+  color: #778087;
+  margin-bottom:5px;
+  margin-top:5px;
+}
+.ReferentnaListaText img
+{
+	float:left;
+	padding-right: 5px;
+}
+.ReferentnaListaText h1
+{
+	font-size:15px;
+	color: Maroon;
+	margin: 3px 1px 5px 0px;
+}
+/* Kraj Css za Clients strana */
+#tekstS
+{
+	 font-size: 10px;
+}
+#slikiS
+{
+/*
+	 border:solid 1px #555555; 
+	 border-top:none;
+*/
+}
+.Kontakti
+{
+	background: url('../Images/Linija.gif') 0 100% repeat-x;
+	padding-bottom:5px;
+	font-family:Verdana;
+	margin-bottom: 5px;
+}
+.Kontakti ul
+{
+	color:Gray;
+	font-style:italic;
+}
+.Kontakti ul li
+{
+	color:Maroon;
+	font-size:13px;
+}
+.Kontakti img
+{
+	float:right;
+}
+/*CFMA i IMOS - Software.aspx*/
+#sodrzinaCFMA, #sodrzinaIMOS,#sodrzinaKadrovo
+{
+	display:block;
+	clear:both;
+	font-family:Verdana;
+	font-size:0.8em;
+	padding-top:10px;
+	margin-left:35px;
+}
+#sodrzinaCFMA img, #sodrzinaIMOS img,#sodrzinaKadrovo img
+{
+	margin:0px 0px 5px 5px;
+	display:block;
+	float:right;
+}
+#sodrzinaCFMA h2, #sodrzinaIMOS h2,#sodrzinaKadrovo h2
+{
+	font-family:Verdana;
+	font-size:1em;
+	text-align:left;
+}
+#sodrzinaCFMA h1, #sodrzinaIMOS h1
+{
+	font-family:Verdana;
+	font-size:1.3em;
+	text-align:left;
+}
+#sodrzinaCFMA ul ul, #sodrzinaIMOS ul ul
+{
+	color:Maroon;
+}
+#sodrzinaCFMA li, #sodrzinaIMOS li
+{
+	color:Gray;
+}
+#sodrzinaCFMA li img
+{
+	border:1px solid black;
+	display:inline-block;
+	float:none;
+	margin-left:100px;
+	margin-top:10px;
+}
+#meniH 
+{
+	width:90%;
+	margin:0px;
+	padding:0px;
+}
+#meniH ul
+{
+	display:block;
+	padding:0px;
+	clear:right;
+	margin:5px;
+	margin-right:auto;
+}
+#meniH ul li
+{
+	display:block;
+	background:transparent url(../Images/meniLinija.gif) repeat-x scroll center center;
+	border:1px solid #c90000;
+	float:left;
+	margin-left:2px;
+	padding:5px;
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bolder;
+}
+#meniH ul a:hover
+{
+	color:Maroon;
+}
+.selected
+{
+	color:Maroon;
+}
+/*Kraj za CFMA i IMOS */
+.tekstAboutUs
+{
+	 padding:5px;
+	 text-align: justify;
+	 color: #778087;
+	 margin-bottom:10px;
+	 float:left;
+	 width:100%;
+}
+.tekstAboutUs p,b
+{
+	 margin-bottom:5px;
+	 margin-top:10px;
+	 color:Black;
+	 text-align:center;
+}
+.tekstAboutUs img
+{
+	float:left;
+	padding-right:5px;
+}
+/* About us tab menibar*/
+#meniBarAbout
+{
+	width:800px;
+	height:37px;
+	float:left;
+	margin:0px;
+	margin-bottom:20px;
+}
+#meniBarAbout ul
+{
+	padding:0px;
+	float:left;
+	width:800px;
+	margin:0px;
+	background:url(../Images/Linija.gif) 0 77% repeat-x;
+}
+#meniBarAbout ul li
+{
+	display:block;
+	margin:0px;
+	background:url(../Images/Bar.png) no-repeat;
+	float:left;
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:bolder;
+	text-align:center;
+	height:37px;
+	width:109px;
+	padding-top:15px;
+	color:White;
+}
+#partneri
+{
+	display:none;
+}
+/*Kraj About us tab menibar*/
+.Naslovna
+{
+   font-size:19px;
+   font-family: Georgia, Times New Roman, Times, serif;
+}
+.NaslovnaText
+{
+	font-size:15px;
+	color:Black;
+}
+.NaslovnaText ul
+{
+ width:500px;
+ padding: 5px 5px 0px 25px;
+ list-style-type:circle;
+ color: #778087;
+}
+.SoftwareText
+{
+	padding:3px;
+	margin:0px;
+}
+.software img
+{
+	width:90px;
+	height:90px;	
+}
+#slikaHome img
+{
+	min-height:200px;
+	max-height:200px;
+	min-width:795px;
+	max-width:795px;	
+}
+#novostiStrana ul
+{
+	list-style-type:circle;
+	float:left;
+	width:260px;
+	color: #778087;
+	padding:2px;
+}
+#novostiStrana ul li
+{
+	margin-left:12px;
+	color: #778087;
+	padding:3px 0px 3px 0px;
+}
+#novostiStrana img
+{
+	float:left;
+	padding:3px;
+}

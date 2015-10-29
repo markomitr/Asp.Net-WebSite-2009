@@ -1,0 +1,171 @@
+﻿
+/* Za zaobleni kosinja :) 
+-----------------------------------------------------------------------------------------------
+*/
+.bl
+{
+	background: url('../Images/Zaobleni/bl.gif') 0 100% no-repeat #c8c9cb;
+	width:427px;
+}
+.br
+{
+	background: url('../Images/Zaobleni/br.gif') 100% 100% no-repeat;
+}
+.tl
+{
+	background: url('../Images/Zaobleni/tl.gif') 0 0 no-repeat;
+}
+.tr
+{
+	width:auto;
+	background: url('../Images/Zaobleni/tr.gif') 100% 0 no-repeat;
+	padding: 8px;
+}
+.clear
+{
+	font-size: 1px;
+	height: 1px;
+}
+/* KRAJ
+-----------------------------------------------------------------------------------------------
+*/
+/*Za klienti strana*/
+.Klient
+{
+	 float:left;  
+	 clear:both;
+	 padding-top:10px;
+}
+.KlientiSodrzina ul
+{
+		padding-top: 5px;
+       	float:left;
+       	clear:right;
+       	width:200px;
+}
+.KlientiSodrzina ul li
+{
+	    display:block;
+       	padding-top: 5px;
+       	margin-right: 3px;
+       	font-size: 12px;
+       	font-style: normal;
+    	font-family:Verdana;
+    	color: #778087;
+        list-style-type: disc;
+        list-style-position:inside;       	
+}
+.KlientiSodrzina ul li a
+{
+         text-decoration:none;
+         color: #778087;     	
+}
+.KlientiSodrzina ul li a:hover
+{
+       	text-decoration:underline;
+       	color: Maroon;
+}
+.KlientDejnost
+{
+    	background: url('../Images/Linija.gif') 0 100% repeat-x;
+    	width: 800px;
+    	font-size: 20px;    	
+    	font-family: Times New Roman;
+    	color: Maroon;
+}
+/*.DejnostObjasni
+{
+	float:left;
+	clear:right;
+	margin-left:10px;
+	margin-top:15px;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity:0.5;
+	opacity: 0.5;
+	width:180px;
+	overflow:hidden;
+	font-size:14px;
+	color:Maroon;
+}*/
+.bl1
+{
+	background: url('../Images/Zaobleni/bl.gif') 0 100% no-repeat #c8c9cb;
+}
+/*Kraj Za klienti strana*/
+
+/* Opis Kontrola*/
+#OpisNovosti
+{
+	height:auto;
+	width:250px;
+	float:left;
+	display:block;
+	font-family:Verdana;
+	color:#778087; 
+	padding: 21px 5px 21px 5px;	
+}
+
+#OpisSodrzinaObjekt
+{
+	font-size:12px;
+}
+#OpisSodrzinaObjekt h1
+{
+	 color:#54565b;
+	 padding:10px 3px 10px 3px;
+	 font-size: 15px;
+}
+.Naslov
+{
+	border-bottom:dashed 1px #c8c9cb;
+}
+/* Kraj Opis Kontrola*/
+
+/*NovostiKontrola*/
+.NovostDivOkolu
+{
+	display:inline-block;
+}
+ #Novosti {
+ display:block;
+ } 
+ #Novosti a {
+  color:#788188; 
+ } 
+ #Novosti ul img {
+  margin:0px 5px 0px 0px; 
+ }
+ #Novosti ul {
+	 font-family:Verdana;
+	 font-size:0.8em;
+	 color:#788188;
+	 margin:0px;
+	 margin-left:1px;
+	 padding:10px 10px 10px 5px;
+	 border:solid 1px #939aa0;
+	 margin:1px;
+	 display:block; overflow:hidden; 
+	 float:left;
+	 width:200px;
+	 height:250px;
+	 text-align:center;
+	 background-image:url('../Images/grayLinija1.gif');
+	 background-repeat:repeat-x; 
+}
+
+#Novosti ul li {
+	 text-align:left;
+	 padding-left:10px;
+	 display:block;
+	 padding-top:12px;
+	 font-size:11px;
+	 /*margin-top:10px;*/ 
+}
+#Novosti ul li img
+{
+	float:right;
+	padding-top:7px;
+}
+
+/*Kraj NovostiKontrola*/
